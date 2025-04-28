@@ -1,2 +1,4 @@
 # excel_mutator
-This is my custom mutator for excel files. It decompresses the zip file and then mutates a certain file and then does the thing...
+This is my custom mutator for excel files.
+
+
